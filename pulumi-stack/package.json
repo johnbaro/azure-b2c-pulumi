@@ -1,0 +1,12 @@
+{
+    "name": "azure-b2c-pulumi",
+    "devDependencies": {
+        "@types/node": "^17"
+    },
+    "dependencies": {
+        "@pulumi/azure-native": "^1.64.0",
+        "@pulumi/azuread": "^5.22.0",
+        "@pulumi/pulumi": "^3.32.1",
+        "@pulumi/random": "^4.6.0"
+    }
+}
